@@ -1,6 +1,6 @@
-# Autonomous Research Agent
+# Research AI Agent
 
-Give it a topic → it researches, writes a full report, safety-checks it, caches it, and remembers it. Built on AWS with a real multi-agent pipeline, red teaming, and LLM evaluation on every request.
+This project is an automated research assistant built on AWS. You give it a topic, and it runs a full workflow using a multi-agent pipeline. Every request goes through rigorous safety checks, red teaming, and LLM evaluation before saving the results to a cache and memory bank.
 
 ---
 
